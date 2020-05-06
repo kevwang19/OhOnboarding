@@ -134,11 +134,11 @@ class App extends Component {
                         <View style={{flexDirection: 'row'}}>
                           <View style={{margin: 5, marginTop: 0}}>
                             <Text style={{fontSize: 12, marginBottom: 3, color: '#E47C41'}}>Rate/Hr</Text>
-                            <Text style={{fontSize: 12, marginBottom: 3, color: '#C4C4C4'}}>$25.00</Text>
+                            <Text style={{fontSize: 12, marginBottom: 3, color: '#AAAAAA'}}>$25.00</Text>
                           </View>
                           <View style={{margin: 5, marginTop: 0}}>
                             <Text style={{fontSize: 12, marginBottom: 3, color: '#E47C41'}}>Sessions</Text>
-                            <Text style={{fontSize: 12, marginBottom: 3, color: '#C4C4C4'}}>0</Text>
+                            <Text style={{fontSize: 12, marginBottom: 3, color: '#AAAAAA'}}>0</Text>
                           </View>
                         </View>
                       </View>
@@ -154,11 +154,11 @@ class App extends Component {
                         <View style={{flexDirection: 'row'}}>
                           <View style={{margin: 5, marginTop: 0}}>
                             <Text style={{fontSize: 12, marginBottom: 3, color: '#E47C41'}}>Rate/Hr</Text>
-                            <Text style={{fontSize: 12, marginBottom: 3, color: '#C4C4C4'}}>$50.00</Text>
+                            <Text style={{fontSize: 12, marginBottom: 3, color: '#AAAAAA'}}>$50.00</Text>
                           </View>
                           <View style={{margin: 5, marginTop: 0}}>
                             <Text style={{fontSize: 12, marginBottom: 3, color: '#E47C41'}}>Sessions</Text>
-                            <Text style={{fontSize: 12, marginBottom: 3, color: '#C4C4C4'}}>0</Text>
+                            <Text style={{fontSize: 12, marginBottom: 3, color: '#AAAAAA'}}>0</Text>
                           </View>
                         </View>
                       </View>
@@ -174,11 +174,11 @@ class App extends Component {
                         <View style={{flexDirection: 'row'}}>
                           <View style={{margin: 5, marginTop: 0}}>
                             <Text style={{fontSize: 12, marginBottom: 3, color: '#E47C41'}}>Rate/Hr</Text>
-                            <Text style={{fontSize: 12, marginBottom: 3, color: '#C4C4C4'}}>$60.00</Text>
+                            <Text style={{fontSize: 12, marginBottom: 3, color: '#AAAAAA'}}>$60.00</Text>
                           </View>
                           <View style={{margin: 5, marginTop: 0}}>
                             <Text style={{fontSize: 12, marginBottom: 3, color: '#E47C41'}}>Sessions</Text>
-                            <Text style={{fontSize: 12, marginBottom: 3, color: '#C4C4C4'}}>0</Text>
+                            <Text style={{fontSize: 12, marginBottom: 3, color: '#AAAAAA'}}>0</Text>
                           </View>
                         </View>
                       </View>
