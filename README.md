@@ -9,9 +9,9 @@ System Requirements
 Setting up the react native frontend (for iOS):
 
 1. npx react-native init OhOnboarding
-2. Download App.js and package.json
-3. Replace App.js from project creation with App.js downloaded from OhOnboarding on Github, and add group78.png and group81.png image files
-4. Replace package.json from project creation with package.json downloaded from TodoExample on Github
+2. Download App.js, package.json, and image files
+3. Add group78.png and group81.png image files to root directory
+4. Replace App.js and package.json from project creation with App.js and package.json downloaded from OhOnboarding on Github 
 5. npm install dependencies in project root directory
 6. cd ios, pod install, cd ..
 7. npm start to start metro server at the root directory of react native project
