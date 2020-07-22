@@ -200,8 +200,4 @@ class App extends Component {
   }
 }
 
-const styles = StyleSheet.create({
-
-});
-
 export default App;
